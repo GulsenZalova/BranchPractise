@@ -1,0 +1,10 @@
+--git branch 
+sadece branch siyahisini gosterir
+
+-- git branch branch-name
+
+bu adda branch yaradir
+
+--git checkout branch-name
+
+hemin brancha kecid edir.
